@@ -8,6 +8,6 @@
 
 ## Авторы
 
-- [@Desmant8](https://www.github.com/Dezmat8) - Full Program
+- [@Dezmant8](https://www.github.com/Dezmat8) - Full Program
 
 
